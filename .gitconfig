@@ -1,0 +1,9 @@
+[user]
+	name = Artur Ostręga
+	email = artmarost@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim
+	autocrlf = false
+	whitespace = cr-at-eol
